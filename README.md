@@ -1,7 +1,7 @@
 # eslint-config-cowtech
 
 [![Package Version](https://badge.fury.io/js/eslint-config-cowtech.png)](http://badge.fury.io/js/eslint-config-cowtech)
-[![Dependency Status](https://gemnasium.com/ShogunPanda/eslint-config-cowtech.js.png?travis)](https://gemnasium.com/ShogunPanda/eslint-config-cowtech)
+[![Dependency Status](https://gemnasium.com/ShogunPanda/eslint-config-cowtech.png?travis)](https://gemnasium.com/ShogunPanda/eslint-config-cowtech)
 
 CowTech style ESLint config
 
