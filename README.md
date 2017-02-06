@@ -3,7 +3,7 @@
 [![Package Version](https://badge.fury.io/js/apes.png)](http://badge.fury.io/js/apes)
 [![Dependency Status](https://gemnasium.com/ShogunPanda/apes.js.png?travis)](https://gemnasium.com/ShogunPanda/apes.js)
 
-CowTech ESLint config.
+CowTech style ESLint config
 
 https://github.com/ShogunPanda/eslint-config-cowtech
 
