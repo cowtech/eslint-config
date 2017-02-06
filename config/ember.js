@@ -6,7 +6,7 @@
 const DISABLED = 0;
 
 module.exports = {
-  extends: "cowtech/node",
+  extends: "./node",
   env: {
     es6: true,
     node: false,
