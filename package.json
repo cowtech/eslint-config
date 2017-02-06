@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-cowtech",
+  "version": "1.0.0",
+  "description": "Cowtech's ESLint configuration",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "config",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "postpublish": "git push origin --tags && git push origin",
+    "test": "eslint -c config/node.js index.js config/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShogunPanda/eslint-config-cowtech"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "cowtech"
+  ],
+  "author": "Shogun <shogun@cowtech.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShogunPanda/eslint-config-cowtech/issues"
+  },
+  "homepage": "https://sw.cowtech.it/eslint-config-cowtech",
+  "devDependencies": {
+    "eslint": "~3.15"
+  },
+  "peerDependencies": {
+    "eslint": "~3.15"
+  }
+}
