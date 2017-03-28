@@ -29,9 +29,9 @@
   },
   "homepage": "https://sw.cowtech.it/eslint-config-cowtech",
   "devDependencies": {
-    "eslint": "~3.15"
+    "eslint": "~3.18"
   },
   "peerDependencies": {
-    "eslint": "~3.15"
+    "eslint": "~3.18"
   }
 }

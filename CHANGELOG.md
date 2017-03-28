@@ -1,3 +1,11 @@
+### 2017-03-28 / 3.18
+
+* Updated to ESLint 3.18 and added the following rules: `multiline-ternary`, `newline-before-return`, `no-compare-neg-zero`, `no-dupe-class-members`, `no-restricted-globals` and `nonblock-statement-body-position`.
+* Disabled the following rules: `global-require`, `no-case-declarations`, `no-extra-parens`, `no-sync` and `prefer-arrow-callback`.
+* Reordered main file to match eslint.org categories.
+* Added React preset.
+* Updated versioning scheme to match ESLint on major and minor version.
+
 ### 2017-02-06 / 1.0.2
 
 * Fixed README.
