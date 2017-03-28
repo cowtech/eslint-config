@@ -1,3 +1,7 @@
+### 2017-03-28 / 3.18.2
+
+* Enabled `allowParens` for `no-confusing-arrow`.
+
 ### 2017-03-28 / 3.18.1
 
 * Disabled `requireReturnForObjectLiteral` for `arrow-body-style`.
