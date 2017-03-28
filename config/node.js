@@ -255,7 +255,7 @@ module.exports = {
     "unicode-bom": DISABLED,
     "wrap-regex": ERROR,
     // ECMAScript 6: http://eslint.org/docs/rules/#ecmascript-6
-    "arrow-body-style": [ERROR, "as-needed", {requireReturnForObjectLiteral: true}],
+    "arrow-body-style": [ERROR, "as-needed"],
     "arrow-parens": [ERROR, "as-needed"],
     "arrow-spacing": [ERROR, {before: true, after: true}],
     "constructor-super": DISABLED,

@@ -1,4 +1,8 @@
-### 2017-03-28 / 3.18
+### 2017-03-28 / 3.18.1
+
+* Disabled `requireReturnForObjectLiteral` for `arrow-body-style`.
+
+### 2017-03-28 / 3.18.0
 
 * Updated to ESLint 3.18 and added the following rules: `multiline-ternary`, `newline-before-return`, `no-compare-neg-zero`, `no-dupe-class-members`, `no-restricted-globals` and `nonblock-statement-body-position`.
 * Disabled the following rules: `global-require`, `no-case-declarations`, `no-extra-parens`, `no-sync` and `prefer-arrow-callback`.
