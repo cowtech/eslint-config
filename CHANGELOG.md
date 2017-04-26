@@ -1,3 +1,8 @@
+### 2017-04-26 / 3.19.0
+
+* Updated to ESLint 3.19, which now is a explicit dependency.
+* Added some globals to make testing easier.
+
 ### 2017-03-28 / 3.18.2
 
 * Enabled `allowParens` for `no-confusing-arrow`.

@@ -27,11 +27,8 @@
   "bugs": {
     "url": "https://github.com/ShogunPanda/eslint-config-cowtech/issues"
   },
-  "homepage": "https://sw.cowtech.it/eslint-config-cowtech",
-  "devDependencies": {
-    "eslint": "~3.18"
-  },
-  "peerDependencies": {
-    "eslint": "~3.18"
+  "homepage": "https://github.com/ShogunPanda/eslint-config-cowtech/issues",
+  "dependencies": {
+    "eslint": "<3.20"
   }
 }

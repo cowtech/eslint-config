@@ -31,6 +31,15 @@ module.exports = {
     ecmaVersion: 2017
   },
   extends: "eslint:recommended",
+  globals: {
+    describe: true,
+    test: true,
+    expect: true,
+    it: true,
+    beforeEach: true,
+    afterEach: true,
+    jest: true
+  },
   rules: {
     // Possible Errors: http://eslint.org/docs/rules/#possible-errors
     "no-await-in-loop": DISABLED,
