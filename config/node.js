@@ -25,7 +25,8 @@ const MAGIC_NUMBERS = [
 module.exports = {
   env: {
     es6: true,
-    node: true
+    node: true,
+    jest: true
   },
   parserOptions: {
     ecmaVersion: 2017
@@ -37,7 +38,9 @@ module.exports = {
     expect: true,
     it: true,
     beforeEach: true,
+    beforeAll: true,
     afterEach: true,
+    afterAll: true,
     jest: true
   },
   rules: {

@@ -1,3 +1,7 @@
+### 2017-04-26 / 3.19.1
+
+* Explicitily include jest in the environment.
+
 ### 2017-04-26 / 3.19.0
 
 * Updated to ESLint 3.19, which now is a explicit dependency.
