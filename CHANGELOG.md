@@ -1,6 +1,6 @@
 ### 2017-04-26 / 3.19.1
 
-* Explicitily include jest in the environment.
+* Explicitily include jest in the active environments.
 
 ### 2017-04-26 / 3.19.0
 
