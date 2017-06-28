@@ -4,7 +4,7 @@
  */
 
 module.exports = {
-  extends: "./node",
+  extends: "./index",
   env: {
     es6: true,
     node: false,
