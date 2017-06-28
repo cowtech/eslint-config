@@ -4,8 +4,9 @@
   "description": "Cowtech's ESLint configuration",
   "main": "index.js",
   "files": [
-    "index.js",
-    "config",
+    "node.js",
+    "ember.js",
+    "react.js",
     "README.md",
     "CHANGELOG.md"
   ],
