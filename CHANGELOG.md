@@ -1,3 +1,7 @@
+### 2017-06-28 / 4.1.6
+
+* Updated ECMA version.
+
 ### 2017-06-28 / 4.1.5
 
 * Fixed references.
