@@ -13,9 +13,11 @@ In your ESLint configuration file, insert the following statement:
 
 ```javascript
 // ...
-"extends": "cowtech"
+"extends": "./node_modules/@cowtech/eslint-config/node.js"
 // ...
 ```
+
+Other than `node`, you can use `ember` or `react`.
 
 ## Contributing to @cowtech/eslint-config
 
