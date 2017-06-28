@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/eslint-config",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "description": "Cowtech's ESLint configuration",
   "main": "index.js",
   "files": [
