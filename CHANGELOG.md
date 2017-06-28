@@ -1,3 +1,8 @@
+### 2017-06-28 / 4.1.1
+
+* Updated to ESLint 4.1.1
+* Moved to @cowtech organization on npm.
+
 ### 2017-04-26 / 3.19.1
 
 * Explicitily include jest in the active environments.

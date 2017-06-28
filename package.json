@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-cowtech",
+  "name": "@cowtech/eslint-config",
   "version": "3.19.1",
   "description": "Cowtech's ESLint configuration",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShogunPanda/eslint-config-cowtech"
+    "url": "https://github.com/cowtech/eslint-config"
   },
   "keywords": [
     "eslint",
@@ -25,10 +25,10 @@
   "author": "Shogun <shogun@cowtech.it>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShogunPanda/eslint-config-cowtech/issues"
+    "url": "https://github.com/cowtech/eslint-config/issues"
   },
-  "homepage": "https://github.com/ShogunPanda/eslint-config-cowtech/issues",
+  "homepage": "https://github.com/cowtech/eslint-config/issues",
   "dependencies": {
-    "eslint": "<3.20"
+    "eslint": "<4.2"
   }
 }

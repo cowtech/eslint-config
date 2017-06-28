@@ -1,5 +1,5 @@
 /*
- * This file is part of the eslint-config-cowtech npm package. Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
+ * This file is part of the @cowtech/eslint-config npm package. Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
  * Licensed under the MIT license, which can be found at http://www.opensource.org/licenses/mit-license.php.
  */
 
@@ -32,7 +32,7 @@ module.exports = {
     ecmaVersion: 2017
   },
   extends: "eslint:recommended",
-  globals: {
+  globals: {
     describe: true,
     test: true,
     expect: true,
@@ -45,6 +45,7 @@ module.exports = {
   },
   rules: {
     // Possible Errors: http://eslint.org/docs/rules/#possible-errors
+    "for-direction": ERROR,
     "no-await-in-loop": DISABLED,
     "no-compare-neg-zero": ERROR,
     "no-cond-assign": [ERROR, "except-parens"],
@@ -80,6 +81,7 @@ module.exports = {
     // Best Practices: http://eslint.org/docs/rules/#best-practices
     "accessor-pairs": ERROR,
     "array-callback-return": ERROR,
+    "array-element-newline": DISABLED,
     "block-scoped-var": ERROR,
     "class-methods-use-this": DISABLED,
     "complexity": [ERROR, MAX_COMPLEXITY],
@@ -167,6 +169,7 @@ module.exports = {
     "callback-return": [ERROR, ["callback", "cb"]],
     "global-require": DISABLED,
     "handle-callback-err": ERROR,
+    "no-buffer-constructor": ERROR,
     "no-mixed-requires": ERROR,
     "no-new-require": ERROR,
     "no-path-concat": DISABLED,
@@ -175,6 +178,7 @@ module.exports = {
     "no-restricted-modules": DISABLED,
     "no-sync": DISABLED,
     // Stylistic Issues: http://eslint.org/docs/rules/#stylistic-issues
+    "array-bracket-newline": DISABLED,
     "array-bracket-spacing": [ERROR, "never"],
     "block-spacing": [ERROR, "never"],
     "brace-style": [ERROR, "1tbs"],
@@ -207,7 +211,6 @@ module.exports = {
     "line-comment-position": DISABLED,
     "linebreak-style": [ERROR, "unix"],
     "lines-around-comment": DISABLED,
-    "lines-around-directive": [ERROR, "always"],
     "max-depth": [ERROR, MAX_DEPTH],
     "max-len": [ERROR, MAX_LINE_LENGTH, ERROR, {ignoreComments: true}],
     "max-lines": DISABLED,
@@ -218,8 +221,6 @@ module.exports = {
     "multiline-ternary": DISABLED,
     "new-cap": [ERROR, {newIsCap: true, capIsNew: true}],
     "new-parens": ERROR,
-    "newline-after-var": DISABLED,
-    "newline-before-return": DISABLED,
     "newline-per-chained-call": DISABLED,
     "no-array-constructor": ERROR,
     "no-bitwise": WARN,
@@ -250,11 +251,15 @@ module.exports = {
     "operator-assignment": [ERROR, "always"],
     "operator-linebreak": [ERROR, "after"],
     "padded-blocks": [ERROR, "never"],
+    "padding-line-between-statements": [ERROR,
+      {blankLine: "always", prev: "*", next: "directive"}
+    ],
     "quote-props": [ERROR, "consistent-as-needed"],
     "quotes": [ERROR, "double", "avoid-escape"],
     "require-jsdoc": DISABLED,
     "semi": [ERROR, "always"],
     "semi-spacing": [ERROR, {before: false, after: true}],
+    "semi-style": [ERROR, "last"],
     "sort-keys": DISABLED,
     "sort-vars": DISABLED,
     "space-before-blocks": [ERROR, "never"],
@@ -263,6 +268,7 @@ module.exports = {
     "space-infix-ops": ERROR,
     "space-unary-ops": [ERROR, {words: true, nonwords: false}],
     "spaced-comment": [ERROR, "always"],
+    "switch-colon-spacing": [ERROR, {before: false, after: true}],
     "template-tag-spacing": [ERROR, "always"],
     "unicode-bom": DISABLED,
     "wrap-regex": ERROR,

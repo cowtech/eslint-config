@@ -1,11 +1,11 @@
-# eslint-config-cowtech
+# @cowtech/eslint-config
 
-[![Package Version](https://badge.fury.io/js/eslint-config-cowtech.png)](http://badge.fury.io/js/eslint-config-cowtech)
-[![Dependency Status](https://gemnasium.com/ShogunPanda/eslint-config-cowtech.png?travis)](https://gemnasium.com/ShogunPanda/eslint-config-cowtech)
+[![Package Version](https://badge.fury.io/js/@cowtech/eslint-config.png)](http://badge.fury.io/js/@cowtech/eslint-config)
+[![Dependency Status](https://gemnasium.com/ShogunPanda/@cowtech/eslint-config.png?travis)](https://gemnasium.com/ShogunPanda/@cowtech/eslint-config)
 
 CowTech style ESLint config
 
-https://github.com/ShogunPanda/eslint-config-cowtech
+https://github.com/ShogunPanda/@cowtech/eslint-config
 
 ## Usage
 
@@ -17,7 +17,7 @@ In your ESLint configuration file, insert the following statement:
 // ...
 ```
 
-## Contributing to eslint-config-cowtech
+## Contributing to @cowtech/eslint-config
 
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
