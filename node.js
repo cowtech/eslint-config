@@ -46,6 +46,7 @@ module.exports = {
   rules: {
     // Possible Errors: http://eslint.org/docs/rules/#possible-errors
     "for-direction": ERROR,
+    "getter-return": [ERROR, {allowImplicit: true}],
     "no-await-in-loop": DISABLED,
     "no-compare-neg-zero": ERROR,
     "no-cond-assign": [ERROR, "except-parens"],

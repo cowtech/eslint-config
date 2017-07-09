@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/cowtech/eslint-config/issues",
   "dependencies": {
-    "eslint": "<4.2"
+    "eslint": "<4.3"
   }
 }

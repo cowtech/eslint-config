@@ -1,3 +1,7 @@
+### 2017-07-09 / 4.2.0
+
+* Updated to ESLint 4.2.0.
+
 ### 2017-06-28 / 4.1.6
 
 * Updated ECMA version.
