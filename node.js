@@ -264,7 +264,7 @@ module.exports = {
     "sort-keys": DISABLED,
     "sort-vars": DISABLED,
     "space-before-blocks": [ERROR, "never"],
-    "space-before-function-paren": [ERROR, "never"],
+    "space-before-function-paren": [ERROR, {anonymous: "never", named: "never", "asyncArrow": "always"}],
     "space-in-parens": [ERROR, "never"],
     "space-infix-ops": ERROR,
     "space-unary-ops": [ERROR, {words: true, nonwords: false}],

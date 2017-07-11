@@ -1,3 +1,7 @@
+### 2017-07-11 / 4.2.1
+
+* Minor update for async functions.
+
 ### 2017-07-09 / 4.2.0
 
 * Updated to ESLint 4.2.0.
