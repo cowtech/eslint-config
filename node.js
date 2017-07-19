@@ -256,7 +256,7 @@ module.exports = {
       {blankLine: 'always', prev: '*', next: 'directive'}
     ],
     'quote-props': [ERROR, 'consistent-as-needed'],
-    'quotes': [ERROR, 'double', 'avoidEscape'],
+    'quotes': [ERROR, 'single', {avoidEscape: true}],
     'require-jsdoc': DISABLED,
     'semi': [ERROR, 'always'],
     'semi-spacing': [ERROR, {before: false, after: true}],
@@ -264,7 +264,7 @@ module.exports = {
     'sort-keys': DISABLED,
     'sort-vars': DISABLED,
     'space-before-blocks': [ERROR, 'never'],
-    'space-before-function-paren': [ERROR, {anonymous: 'never', named: 'never', 'asyncArrow': 'always'}],
+    'space-before-function-paren': [ERROR, {anonymous: 'never', named: 'never', asyncArrow: 'always'}],
     'space-in-parens': [ERROR, 'never'],
     'space-infix-ops': ERROR,
     'space-unary-ops': [ERROR, {words: true, nonwords: false}],

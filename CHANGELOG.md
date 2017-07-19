@@ -1,3 +1,7 @@
+### 2017-07-19 / 4.2.3
+
+* Bugfix.
+
 ### 2017-07-19 / 4.2.2
 
 * Switched to single quotes since to be closer to StandardJS.

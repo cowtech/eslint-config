@@ -12,7 +12,7 @@
   ],
   "scripts": {
     "postpublish": "git push origin --tags && git push origin",
-    "test": "eslint -c config/node.js index.js config/*.js"
+    "test": "eslint -c node.js *.js"
   },
   "repository": {
     "type": "git",
