@@ -4,7 +4,7 @@
 
 ### 2017-07-19 / 4.2.2
 
-* Switched to single quotes since to be closer to StandardJS.
+* Switched to single quotes to be closer to StandardJS.
 
 ### 2017-07-11 / 4.2.1
 
