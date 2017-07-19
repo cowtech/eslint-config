@@ -4,7 +4,7 @@
  */
 
 module.exports = {
-  extends: "./node.js",
+  extends: './node.js',
   env: {
     es6: true,
     node: false,
@@ -13,6 +13,6 @@ module.exports = {
   },
   parserOptions: {
     ecmaVersion: 2017,
-    sourceType: "module"
+    sourceType: 'module'
   }
 };
