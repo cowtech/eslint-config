@@ -11,8 +11,8 @@
     "CHANGELOG.md"
   ],
   "scripts": {
-    "postpublish": "git push origin --tags && git push origin",
-    "lint": "eslint -c node.js *.js"
+    "lint": "eslint -c node.js *.js",
+    "postpublish": "git push origin --tags && git push origin"
   },
   "repository": {
     "type": "git",
