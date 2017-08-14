@@ -1,3 +1,7 @@
+### 2017-08-14 / 4.4.0
+
+* Updated to ESLint 4.4.0
+
 ### 2017-07-31 / 4.3.0
 
 * Bump to match ESLint version.
