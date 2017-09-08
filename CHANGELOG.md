@@ -1,3 +1,7 @@
+### 2017-09-08 / 4.6.0
+
+* Update to ESLint 4.6.x.
+
 ### 2017-08-14 / 4.4.0
 
 * Updated to ESLint 4.4.0

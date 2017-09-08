@@ -195,6 +195,7 @@ module.exports = {
     'func-name-matching': ERROR,
     'func-names': DISABLED,
     'func-style': [ERROR, 'expression'],
+    'function-paren-newline': DISABLED,
     'id-blacklist': DISABLED,
     'id-length': DISABLED,
     'id-match': DISABLED,
