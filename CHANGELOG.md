@@ -1,3 +1,7 @@
+### 2017-09-13 / 4.6.1
+
+* Inserted React rules.
+
 ### 2017-09-08 / 4.6.0
 
 * Update to ESLint 4.6.x.
