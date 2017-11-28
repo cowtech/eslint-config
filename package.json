@@ -11,7 +11,7 @@
     "CHANGELOG.md"
   ],
   "scripts": {
-    "lint": "eslint -c node.js *.js",
+    "lint": "eslint --report-unused-disable-directives -c node.js *.js",
     "postpublish": "git push origin --tags && git push origin"
   },
   "repository": {
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/cowtech/eslint-config/issues",
   "dependencies": {
-    "eslint": "~4.6"
+    "eslint": "~4.12"
   },
   "devDependencies": {
     "@cowtech/package-utils": "~0.2"
