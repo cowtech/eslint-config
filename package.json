@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/cowtech/eslint-config/issues",
   "dependencies": {
-    "eslint": "~4.12"
+    "eslint": "~4.14"
   },
   "devDependencies": {
     "@cowtech/package-utils": "~0.2"
