@@ -1,11 +1,11 @@
 # @cowtech/eslint-config
 
-[![Package Version](https://badge.fury.io/js/%40cowtech%2Feslint-config.svg)](https://badge.fury.io/js/%40cowtech%2Feslint-config)
-[![Dependency Status](https://gemnasium.com/badges/github.com/cowtech/eslint-config.svg)](https://gemnasium.com/github.com/cowtech/eslint-config)
+[![Package Version](https://img.shields.io/npm/v/@cowtech/eslint-config.svg)](https://npmjs.com/package/@cowtech/eslint-config)
+[![Dependency Status](https://img.shields.io/gemnasium/github.com/cowtech/eslint-config.svg)](https://gemnasium.com/github.com/cowtech/eslint-config)
 
 CowTech style ESLint config
 
-https://github.com/ShogunPanda/@cowtech/eslint-config
+https://github.com/cowtech/eslint-config
 
 ## Usage
 
@@ -32,4 +32,4 @@ Other than `node`, you can use `ember` or `react`.
 
 Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
 
-Licensed under the MIT license, which can be found at http://opensource.org/licenses/MIT.
+Licensed under the MIT license, which can be found at https://choosealicense.com/licenses/mit.
