@@ -1,3 +1,7 @@
+### 2018-02-20 / 4.15.1
+
+* Updated to ESLint 4.18.x
+
 ### 2018-01-18 / 4.15.0
 
 * Update to ESLint 4.15.x.
