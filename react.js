@@ -73,7 +73,6 @@ module.exports = {
     'react/jsx-no-undef': DISABLED,
     'react/jsx-pascal-case': ERROR,
     'react/jsx-sort-props': DISABLED,
-    'react/jsx-space-before-closing': [ERROR, 'never'],
     'react/jsx-tag-spacing': [ERROR, {closingSlash: 'never', beforeSelfClosing: 'never', afterOpening: 'never'}],
     'react/jsx-uses-react': ERROR,
     'react/jsx-uses-vars': ERROR,

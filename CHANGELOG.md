@@ -1,3 +1,7 @@
+### 2018-03-11 / 4.18.1
+
+* Removed deprecated rule.
+
 ### 2018-02-20 / 4.15.1
 
 * Updated to ESLint 4.18.x
