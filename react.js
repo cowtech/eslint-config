@@ -7,5 +7,6 @@ module.exports = {
   extends: ['./index.js', 'standard-jsx', 'standard-react'],
   rules: {
     'jsx-quotes': [2, 'prefer-double']
+    'react/prop-types': 0
   }
 }
