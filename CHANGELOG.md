@@ -1,3 +1,7 @@
+### 2018-05-09 / 4.19.4
+
+* fix: Make function space completely optional.
+
 ### 2018-05-09 / 4.19.3
 
 * fix: Fix React syntax.
