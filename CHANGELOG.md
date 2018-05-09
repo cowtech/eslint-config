@@ -1,3 +1,8 @@
+### 2018-05-09 / 4.19.3
+
+* fix: Fix React syntax.
+* chore: Updated CHANGELOG.md.
+
 ### 2018-05-09 / 4.19.2
 
 * fix: Do not enforce prop-types.
