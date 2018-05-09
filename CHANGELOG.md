@@ -1,3 +1,11 @@
+### 2018-05-09 / 4.19.2
+
+* fix: Do not enforce prop-types.
+
+### 2018-05-09 / 4.19.1
+
+* fix: Make compatible with prettier.
+
 ### 2018-05-09 / 4.19.0
 
 * BREAKING CHANGE: **Refactored to be based on Standard JS**.
