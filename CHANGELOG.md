@@ -1,3 +1,11 @@
+### 2018-05-09 / 4.19.0
+
+* BREAKING CHANGE: **Refactored to be based on Standard JS**.
+* Make `node` an alias of `index.js`.
+* Removed `ember.js` since it's now included in index.
+
+* Updated to ESLint 4.19.x
+
 ### 2018-03-11 / 4.18.1
 
 * Removed deprecated rule.

@@ -7,17 +7,23 @@ CowTech style ESLint config
 
 https://github.com/cowtech/eslint-config
 
+Starting from version **4.19.0**, it is now based on [standard](https://standardjs.com/) which will differ on only few specific cases.
+
 ## Usage
 
 In your ESLint configuration file, insert the following statement:
 
 ```javascript
 // ...
-"extends": "./node_modules/@cowtech/eslint-config/node.js"
+"extends": "./node_modules/@cowtech/eslint-config"
 // ...
 ```
 
-Other than `node`, you can use `ember` or `react`.
+Other than the default one, here's the possible alternatives:
+
+* **react**: `./node_modules/@cowtech/eslint-config/react`
+
+  Differs from standard by enforcing **double** quotes in JSX attributes.
 
 ## Contributing to @cowtech/eslint-config
 

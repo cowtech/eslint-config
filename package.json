@@ -4,14 +4,14 @@
   "description": "Cowtech's ESLint configuration",
   "main": "index.js",
   "files": [
+    "index.js",
     "node.js",
-    "ember.js",
     "react.js",
     "README.md",
     "CHANGELOG.md"
   ],
   "scripts": {
-    "lint": "eslint --report-unused-disable-directives -c node.js *.js",
+    "lint": "eslint --report-unused-disable-directives -c index.js *.js",
     "postpublish": "git push origin --tags && git push origin"
   },
   "repository": {
@@ -30,9 +30,17 @@
   },
   "homepage": "https://github.com/cowtech/eslint-config/issues",
   "dependencies": {
-    "eslint": "~4.18"
+    "eslint": "~4.19",
+    "eslint-config-standard": "~11.0",
+    "eslint-config-standard-jsx": "~5.0",
+    "eslint-config-standard-react": "~6.0",
+    "eslint-plugin-import": "~2.11",
+    "eslint-plugin-node": "~6.0",
+    "eslint-plugin-promise": "~3.7",
+    "eslint-plugin-react": "~7.7",
+    "eslint-plugin-standard": "~3.1"
   },
   "devDependencies": {
-    "@cowtech/package-utils": "~0.2"
+    "prettier": "~1.12"
   }
 }
