@@ -1,3 +1,7 @@
+### 2018-06-18 / 4.19.5
+
+* chore: Update dependencies scheme.
+
 ### 2018-05-09 / 4.19.4
 
 * fix: Make function space completely optional.
