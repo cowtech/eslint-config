@@ -8,5 +8,6 @@ module.exports = {
   rules: {
     'jsx-quotes': [2, 'prefer-double'],
     'react/prop-types': 0
+    'react/jsx-boolean-value': [2, 'always']
   }
 }
