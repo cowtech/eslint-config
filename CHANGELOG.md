@@ -1,3 +1,7 @@
+### 2019-02-24 / 5.14.1
+
+* fix: Update React rule.
+
 ### 2019-02-24 / 5.14.0
 
 - feat: Updated to ESLint 5.x.x.
