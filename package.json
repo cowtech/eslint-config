@@ -11,7 +11,7 @@
     "CHANGELOG.md"
   ],
   "scripts": {
-    "lint": "eslint --report-unused-disable-directives -c index.js *.js",
+    "prepublish": "eslint --report-unused-disable-directives -c index.js *.js",
     "postpublish": "git push origin --tags && git push origin"
   },
   "repository": {
