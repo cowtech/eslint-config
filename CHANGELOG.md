@@ -1,3 +1,8 @@
+### 2019-02-24 / 5.14.2
+
+* chore: Improve release infrastructure.
+* fix: Typo fix.
+
 ### 2019-02-24 / 5.14.1
 
 * fix: Update React rule.
