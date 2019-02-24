@@ -1,3 +1,8 @@
+### 2019-02-24 / 4.20.0
+
+* feat: Updated to ESLint 5.x.x.
+* chore: Use NPM for locking.
+
 ### 2018-06-18 / 4.19.5
 
 * chore: Update dependencies scheme.
