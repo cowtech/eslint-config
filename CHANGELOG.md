@@ -1,3 +1,7 @@
+### 2020-03-09 / 6.8.4
+
+- fix: Typo fix.
+
 ### 2020-03-09 / 6.8.3
 
 - fix: Added missing rule.
