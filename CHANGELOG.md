@@ -1,3 +1,7 @@
+### 2020-03-09 / 6.8.1
+
+- fix: Disable useless rules.
+
 ### 2020-03-09 / 6.8.0
 
 - feat: Added TypeScript support.
