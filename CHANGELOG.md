@@ -1,3 +1,7 @@
+### 2020-03-09 / 6.8.5
+
+- fix: Disable overly complicated rule.
+
 ### 2020-03-09 / 6.8.4
 
 - fix: Typo fix.
