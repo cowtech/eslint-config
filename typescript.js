@@ -12,7 +12,7 @@ module.exports = {
       Once https://github.com/prettier/prettier/issues/3845 and https://github.com/prettier/prettier/issues/3847 are solved this might be not needed any more.
     */
     '@typescript-eslint/space-before-function-paren': 0,
-    '@typescript-eslint/strict-boolean-expressions': [2, { allowNullable: true, allowSafe: true }],
+    '@typescript-eslint/strict-boolean-expressions': 0,
     '@typescript-eslint/typedef': [
       2,
       {
