@@ -5,7 +5,7 @@ module.exports = {
     '@typescript-eslint/array-type': [2, { default: 'generic', readonly: 'generic' }],
     '@typescript-eslint/no-non-null-assertion': 0,
     '@typescript-eslint/promise-function-async': 0,
-    '@typescript-eslint/require-await': 0
+    '@typescript-eslint/require-await': 0,
     '@typescript-eslint/restrict-template-expressions': 0,
     /*
       This is inserted to make this compatible with prettier.
