@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (C) 2018 and above Shogun <shogun@cowtech.it>
+Copyright (C) 2017 and above Shogun <shogun@cowtech.it>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
