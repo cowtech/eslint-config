@@ -1,3 +1,8 @@
+### 2020-03-09 / 6.8.0
+
+- feat: Added TypeScript support.
+- feat: Update to ESLint 6.8.0
+
 ### 2019-02-24 / 5.14.2
 
 - chore: Improve release infrastructure.
