@@ -1,3 +1,7 @@
+### 2020-05-10 / 6.9.1
+
+- fix: Fixed React rules.
+
 ### 2020-05-10 / 6.9.0
 
 - feat: Make browser environment explicit.
