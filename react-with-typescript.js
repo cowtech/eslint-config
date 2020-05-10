@@ -9,9 +9,9 @@ module.exports = {
     browser: true
   },
   rules: {
-    'jsx-no-string-ref': 2,
     'jsx-quotes': [2, 'prefer-double'],
-    'react/jsx-boolean-value': [2, 'always'],
-    'react/prop-types': 0
+    'react/no-string-ref': 2,
+    'react/prop-types': 0,
+    'react/jsx-boolean-value': [2, 'always']
   }
 }
