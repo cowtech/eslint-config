@@ -5,6 +5,9 @@
 
 module.exports = {
   extends: ['./typescript.js', 'standard-jsx', 'standard-react'],
+  env: {
+    browser: true
+  },
   rules: {
     'jsx-no-string-ref': 2,
     'jsx-quotes': [2, 'prefer-double'],
