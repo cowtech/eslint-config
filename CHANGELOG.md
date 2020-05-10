@@ -1,3 +1,7 @@
+### 2020-05-10 / 6.9.2
+
+- fix: Fixed React rules, again.
+
 ### 2020-05-10 / 6.9.1
 
 - fix: Fixed React rules.
