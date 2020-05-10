@@ -1,3 +1,7 @@
+### 2020-05-10 / 6.9.0
+
+- feat: Make browser environment explicit.
+
 ### 2020-03-09 / 6.8.5
 
 - fix: Disable overly complicated rule.
