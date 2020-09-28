@@ -1,3 +1,7 @@
+### 2020-09-28 / 7.10.0
+
+- feat: Updated to ESLint 7.x.x.
+
 ### 2020-05-10 / 6.9.2
 
 - fix: Fixed React rules, again.
