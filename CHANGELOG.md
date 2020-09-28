@@ -1,3 +1,7 @@
+### 2020-09-28 / 7.10.1
+
+- fix: Disable TypeScript rule.
+
 ### 2020-09-28 / 7.10.0
 
 - feat: Updated to ESLint 7.x.x.
