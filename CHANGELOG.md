@@ -1,3 +1,7 @@
+### 2021-01-02 / 7.12.0
+
+- fix: Fixed package.json.
+
 ### 2021-01-02 / 7.11.0
 
 - chore: Updated license.
