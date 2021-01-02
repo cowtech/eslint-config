@@ -1,3 +1,8 @@
+### 2021-01-02 / 7.11.0
+
+- chore: Updated license.
+- chore: Updated dependencies, code and tools.
+
 ### 2020-09-28 / 7.10.1
 
 - fix: Disable TypeScript rule.
