@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/eslint-config",
-  "version": "7.12.0",
+  "version": "7.12.1",
   "description": "Cowtech's ESLint configuration",
   "homepage": "https://github.com/cowtech/eslint-config/issues",
   "repository": {
