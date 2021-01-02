@@ -3,10 +3,7 @@
   "version": "7.12.1",
   "description": "Cowtech's ESLint configuration",
   "homepage": "https://github.com/cowtech/eslint-config/issues",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cowtech/eslint-config"
-  },
+  "repository": "github:cowtech/eslint-config",
   "keywords": [
     "eslint",
     "eslintconfig",
