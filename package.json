@@ -18,7 +18,7 @@
   },
   "author": "Shogun <shogun@cowtech.it>",
   "license": "ISC",
-  "private": true,
+  "private": false,
   "files": [
     "index.js",
     "node.js",
