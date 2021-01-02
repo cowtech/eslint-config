@@ -1,3 +1,7 @@
+### 2021-01-02 / 7.12.2
+
+- chore: Updated repository URL.
+
 ### 2021-01-02 / 7.12.1
 
 - chore: Updated license file.
