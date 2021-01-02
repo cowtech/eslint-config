@@ -2,7 +2,23 @@
   "name": "@cowtech/eslint-config",
   "version": "7.10.1",
   "description": "Cowtech's ESLint configuration",
-  "main": "index.js",
+  "homepage": "https://github.com/cowtech/eslint-config/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowtech/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "cowtech"
+  ],
+  "bugs": {
+    "url": "https://github.com/cowtech/eslint-config/issues"
+  },
+  "author": "Shogun <shogun@cowtech.it>",
+  "license": "MIT",
+  "private": true,
   "files": [
     "index.js",
     "node.js",
@@ -12,41 +28,27 @@
     "README.md",
     "CHANGELOG.md"
   ],
+  "main": "index.js",
   "scripts": {
     "prepublish": "eslint --report-unused-disable-directives -c index.js *.js",
     "postpublish": "git push origin --tags && git push origin"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cowtech/eslint-config"
-  },
-  "keywords": [
-    "eslint",
-    "eslintconfig",
-    "cowtech"
-  ],
-  "author": "Shogun <shogun@cowtech.it>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cowtech/eslint-config/issues"
-  },
-  "homepage": "https://github.com/cowtech/eslint-config/issues",
   "dependencies": {
-    "@typescript-eslint/parser": "^4.2.0",
-    "@typescript-eslint/eslint-plugin": "^4.2.0",
-    "eslint": "^7.10.0",
-    "eslint-config-standard": "^14.1.1",
-    "eslint-config-standard-jsx": "^8.1.0",
-    "eslint-config-standard-react": "^9.2.0",
+    "@typescript-eslint/parser": "^4.11.1",
+    "@typescript-eslint/eslint-plugin": "^4.11.1",
+    "eslint": "^7.17.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-config-standard-jsx": "^10.0.0",
+    "eslint-config-standard-react": "^11.0.1",
     "eslint-config-standard-with-typescript": "^19.0.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.21.2",
-    "eslint-plugin-standard": "^4.0.1"
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-standard": "^5.0.0"
   },
   "devDependencies": {
-    "prettier": "^2.1.2"
+    "prettier": "^2.2.1"
   },
   "engines": {
     "node": ">=12.15.0"
