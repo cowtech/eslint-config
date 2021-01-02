@@ -17,7 +17,7 @@
     "url": "https://github.com/cowtech/eslint-config/issues"
   },
   "author": "Shogun <shogun@cowtech.it>",
-  "license": "MIT",
+  "license": "ISC",
   "private": true,
   "files": [
     "index.js",
