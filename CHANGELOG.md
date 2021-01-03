@@ -1,3 +1,7 @@
+### 2021-01-03 / 7.14.0
+
+- feat: Readded needed dependencies.
+
 ### 2021-01-03 / 7.13.0
 
 - feat: Removed useless dependencies.
