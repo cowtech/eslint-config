@@ -1,3 +1,7 @@
+### 2021-01-03 / 7.13.0
+
+- feat: Removed useless dependencies.
+
 ### 2021-01-02 / 7.12.2
 
 - chore: Updated repository URL.
