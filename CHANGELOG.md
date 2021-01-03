@@ -1,3 +1,7 @@
+### 2021-01-03 / 7.14.1
+
+- chore: Fixed license link in README.md.
+
 ### 2021-01-03 / 7.14.0
 
 - feat: Readded needed dependencies.
