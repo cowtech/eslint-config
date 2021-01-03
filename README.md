@@ -38,4 +38,4 @@ Other than the default one, here's the possible alternatives:
 
 Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
 
-Licensed under the MIT license, which can be found at https://choosealicense.com/licenses/mit.
+Licensed under the MIT license, which can be found at https://choosealicense.com/licenses/isc.
