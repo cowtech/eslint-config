@@ -1,3 +1,7 @@
+### 2021-01-04 / 7.14.2
+
+- fix: Updated package file list.
+
 ### 2021-01-03 / 7.14.1
 
 - chore: Fixed license link in README.md.
