@@ -22,8 +22,9 @@
     "react.js",
     "typescript.js",
     "react-with-typescript.js",
-    "README.md",
-    "CHANGELOG.md"
+    "CHANGELOG.md",
+    "LICENSE.md",
+    "README.md"
   ],
   "main": "index.js",
   "scripts": {
