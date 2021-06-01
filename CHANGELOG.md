@@ -1,3 +1,7 @@
+### 2021-06-01 / 7.14.3
+
+- fix: Do not require React for JSX.
+
 ### 2021-01-04 / 7.14.2
 
 - fix: Updated package file list.
