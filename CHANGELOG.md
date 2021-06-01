@@ -1,3 +1,7 @@
+### 2021-06-01 / 7.14.4
+
+- fix: Sorted lines.
+
 ### 2021-06-01 / 7.14.3
 
 - fix: Do not require React for JSX.
