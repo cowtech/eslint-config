@@ -1,3 +1,7 @@
+### 2021-06-01 / 7.14.5
+
+- fix: Sorted lines.
+
 ### 2021-06-01 / 7.14.4
 
 - fix: Sorted lines.
