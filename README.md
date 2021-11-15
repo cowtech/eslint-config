@@ -1,7 +1,7 @@
 # @cowtech/eslint-config
 
-[![Package Version](https://img.shields.io/npm/v/@cowtech/eslint-config.svg)](https://npm.im/@cowtech/eslint-config)
-[![Dependency Status](https://img.shields.io/david/cowtech/eslint-config)](https://david-dm.org/cowtech/eslint-config)
+[![Version](https://img.shields.io/npm/v/@cowtech/eslint-config.svg)](https://npm.im/@cowtech/eslint-config)
+[![Dependencies](https://img.shields.io/librariesio/release/npm/@cowtech/eslint-config)](https://libraries.io/npm/@cowtech%2Feslint-config)
 
 CowTech style ESLint config
 
