@@ -29,7 +29,7 @@
   "main": "index.js",
   "scripts": {
     "prepublish": "eslint --report-unused-disable-directives -c index.js *.js",
-    "postpublish": "git push origin --tags && git push origin"
+    "postpublish": "git push origin && git push origin  --tags"
   },
   "dependencies": {
     "@typescript-eslint/parser": "^4.11.1",
