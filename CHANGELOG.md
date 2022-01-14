@@ -1,3 +1,11 @@
+### 2022-01-14 / 7.14.6
+
+- feat: Allow functions in JSX.
+- chore: Updated scripts.
+- chore: Removed useless file.
+- chore: Updated badges.
+- feat: Bump minimum node version.
+
 ### 2021-06-01 / 7.14.5
 
 - fix: Sorted lines.
