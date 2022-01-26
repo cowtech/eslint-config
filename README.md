@@ -11,19 +11,31 @@ Starting from version **4.19.0**, it is now based on [standard](https://standard
 
 ## Usage
 
-In your ESLint configuration file, insert the following statement:
+In your ESLint configuration file, insert one the following statement, depending on your use case:
 
 ```javascript
 // ...
-"extends": "./node_modules/@cowtech/eslint-config"
+"extends": "@cowtech/eslint-config"
 // ...
 ```
 
-Other than the default one, here's the possible alternatives:
+```javascript
+// ...
+"extends": "@cowtech/eslint-config/typescript"
+// ...
+```
 
-- **react**: `./node_modules/@cowtech/eslint-config/react`
+```javascript
+// ...
+"extends": "@cowtech/eslint-config/react"
+// ...
+```
 
-  Differs from standard by enforcing **double** quotes in JSX attributes.
+```javascript
+// ...
+"extends": "@cowtech/eslint-config/react-with-typescript"
+// ...
+```
 
 ## Contributing to @cowtech/eslint-config
 

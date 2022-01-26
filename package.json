@@ -18,9 +18,8 @@
   "private": false,
   "files": [
     "index.js",
-    "node.js",
-    "react.js",
     "typescript.js",
+    "react.js",
     "react-with-typescript.js",
     "CHANGELOG.md",
     "LICENSE.md",
@@ -28,25 +27,24 @@
   ],
   "main": "index.js",
   "scripts": {
-    "prepublish": "eslint --report-unused-disable-directives -c index.js *.js",
+    "prepublish": "eslint -c index.js *.js",
     "postpublish": "git push origin && git push origin  --tags"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "^4.11.1",
-    "@typescript-eslint/eslint-plugin": "^4.11.1",
-    "eslint": "^7.17.0",
-    "eslint-config-standard": "^16.0.2",
+    "@typescript-eslint/parser": "^5.10.1",
+    "@typescript-eslint/eslint-plugin": "^5.10.1",    
+    "eslint": "^8.7.0",
+    "eslint-config-standard": "^16.0.3",
     "eslint-config-standard-jsx": "^10.0.0",
     "eslint-config-standard-react": "^11.0.1",
-    "eslint-config-standard-with-typescript": "^19.0.1",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-config-standard-with-typescript": "^21.0.1",
+    "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.22.0",
-    "eslint-plugin-standard": "^5.0.0"
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.28.0"
   },
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.5.1"
   },
   "engines": {
     "node": ">=14.15.0"
