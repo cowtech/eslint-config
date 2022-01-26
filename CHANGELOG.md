@@ -1,3 +1,7 @@
+### 2022-01-26 / 8.0.1
+
+- fix: Added missing dependency.
+
 ### 2022-01-26 / 8.0.0
 
 - feat: Migrated to ESLint 8.x.x.
