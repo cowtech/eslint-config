@@ -1,3 +1,7 @@
+### 2022-01-26 / 8.0.0
+
+- feat: Migrated to ESLint 8.x.x.
+
 ### 2022-01-14 / 7.14.6
 
 - feat: Allow functions in JSX.
