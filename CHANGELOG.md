@@ -1,3 +1,7 @@
+### 2022-02-11 / 8.1.0
+
+- feat: Added import rule.
+
 ### 2022-01-26 / 8.0.1
 
 - fix: Added missing dependency.
