@@ -1,3 +1,7 @@
+### 2022-02-13 / 8.2.0
+
+- feat: Added eslint-plugin-unicorn.
+
 ### 2022-02-11 / 8.1.0
 
 - feat: Added import rule.
