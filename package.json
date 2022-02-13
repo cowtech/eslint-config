@@ -27,12 +27,13 @@
   ],
   "main": "index.js",
   "scripts": {
+    "format": "prettier -w *.js",
     "prepublish": "eslint -c index.js *.js",
     "postpublish": "git push origin && git push origin  --tags"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "^5.10.1",
     "@typescript-eslint/eslint-plugin": "^5.10.1",
+    "@typescript-eslint/parser": "^5.10.1",
     "eslint": "^8.7.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-config-standard-jsx": "^10.0.0",
@@ -42,6 +43,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-unicorn": "^40.1.0",
     "typescript": "^4.0.0"
   },
   "devDependencies": {
