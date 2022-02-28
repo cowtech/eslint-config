@@ -1,3 +1,7 @@
+### 2022-02-28 / 8.2.1
+
+- fix: Correctly initialize plugins.
+
 ### 2022-02-13 / 8.2.0
 
 - feat: Added eslint-plugin-unicorn.
