@@ -23,5 +23,6 @@ module.exports = {
     'unicorn/no-process-exit': 0,
     'unicorn/prevent-abbreviations': 0
   },
+  plugins: ['unicorn', 'import'],
   reportUnusedDisableDirectives: true
 }

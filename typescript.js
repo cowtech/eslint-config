@@ -1,6 +1,6 @@
 // eslint-disable-next-line unicorn/prefer-module
 module.exports = {
-  extends: ['standard-with-typescript'],
+  extends: ['./index.js', 'plugin:import/typescript', 'standard-with-typescript'],
   rules: {
     curly: [2, 'all'],
     '@typescript-eslint/array-type': [2, { default: 'generic', readonly: 'generic' }],
