@@ -1,3 +1,7 @@
+### 2022-03-01 / 8.2.2
+
+- feat: Disable rule.
+
 ### 2022-02-28 / 8.2.1
 
 - fix: Correctly initialize plugins.
