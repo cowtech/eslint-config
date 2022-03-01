@@ -11,7 +11,7 @@ module.exports = {
     'unicorn/expiring-todo-comments': 0,
     'unicorn/explicit-length-check': 0,
     'unicorn/filename-case': [2, { cases: { camelCase: true, kebabCase: true } }],
-    'unicorn/no-unsafe-regex': 2,
+    'unicorn/no-unsafe-regex': 0,
     'unicorn/no-unused-properties': 2,
     'unicorn/prefer-at': 2,
     'unicorn/prefer-string-replace-all': 2,
