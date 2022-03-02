@@ -21,6 +21,7 @@ module.exports = {
     'unicorn/no-for-loop': 0,
     'unicorn/no-null': 0,
     'unicorn/no-process-exit': 0,
+    'unicorn/no-useless-undefined': 0,
     'unicorn/prevent-abbreviations': 0
   },
   plugins: ['unicorn', 'import'],
