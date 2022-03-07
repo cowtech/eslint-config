@@ -1,3 +1,7 @@
+### 2022-03-07 / 8.4.1
+
+- chore: Updated dependencies.
+
 ### 2022-03-02 / 8.4.0
 
 - feat: Disable rule.
