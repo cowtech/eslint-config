@@ -3,7 +3,6 @@ module.exports = {
   extends: ['standard', 'plugin:unicorn/recommended'],
   rules: {
     curly: [2, 'all'],
-    'sort-imports': [2, { allowSeparatedGroups: true }],
     'import/extensions': [2, 'always', { ignorePackages: true }], // This is required for proper ESM use
     'import/order': [
       2,
