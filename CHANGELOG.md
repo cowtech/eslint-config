@@ -1,3 +1,7 @@
+### 2022-03-07 / 8.5.0
+
+- feat: Verify import ordering.
+
 ### 2022-03-07 / 8.4.1
 
 - chore: Updated dependencies.
