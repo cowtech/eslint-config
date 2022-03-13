@@ -1,3 +1,7 @@
+### 2022-03-13 / 8.6.2
+
+- fix: Disabled rule in React.
+
 ### 2022-03-07 / 8.6.1
 
 - feat: Removed useless rule.
