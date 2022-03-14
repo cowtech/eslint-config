@@ -5,6 +5,7 @@ module.exports = {
     browser: true
   },
   rules: {
+    'import/extensions': 0,
     'jsx-quotes': [2, 'prefer-double'],
     'react/jsx-boolean-value': [2, 'always'],
     'react/jsx-no-bind': [2, { allowFunctions: true }],
