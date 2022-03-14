@@ -1,3 +1,7 @@
+### 2022-03-14 / 8.6.3
+
+- fix: Disable rule in React.
+
 ### 2022-03-13 / 8.6.2
 
 - fix: Disabled rule in React.
