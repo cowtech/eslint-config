@@ -1,3 +1,7 @@
+### 2022-07-18 / 8.7.0
+
+- feat: Updated dependencies to fully support ESLint 8.x
+
 ### 2022-03-14 / 8.6.3
 
 - fix: Disable rule in React.
