@@ -1,3 +1,7 @@
+### 2022-08-29 / 8.7.1
+
+- chore: Updated dependencies.
+
 ### 2022-07-18 / 8.7.0
 
 - feat: Updated dependencies to fully support ESLint 8.x
