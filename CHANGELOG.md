@@ -1,3 +1,7 @@
+### 2022-10-12 / 8.7.5
+
+- fix: Fixed React including.
+
 ### 2022-10-12 / 8.7.4
 
 - fix: Fixed React including.
