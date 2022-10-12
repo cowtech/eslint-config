@@ -1,3 +1,7 @@
+### 2022-10-12 / 8.7.3
+
+- chore: Updated dependencies.
+
 ### 2022-08-30 / 8.7.2
 
 - chore: Updated dependencies.
