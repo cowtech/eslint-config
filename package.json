@@ -32,19 +32,19 @@
     "postpublish": "git push origin && git push origin  --tags"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.36.0",
-    "@typescript-eslint/parser": "^5.36.0",
-    "eslint": "^8.23.0",
+    "@mirismaili/eslint-config-standard-react": "^12.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
+    "@typescript-eslint/parser": "^5.40.0",
+    "eslint": "^8.25.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-config-standard-jsx": "^11.0.0",
-    "eslint-config-standard-react": "standard/eslint-config-standard-react#f4524992",
-    "eslint-config-standard-with-typescript": "^22.0.0",
+    "eslint-config-standard-with-typescript": "^23.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-n": "^15.3.0",
     "eslint-plugin-promise": "^6.0.1",
-    "eslint-plugin-react": "^7.31.1",
-    "eslint-plugin-unicorn": "^43.0.2",
-    "typescript": "^4.8.2"
+    "eslint-plugin-react": "^7.31.10",
+    "eslint-plugin-unicorn": "^44.0.2",
+    "typescript": "^4.8.4"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
