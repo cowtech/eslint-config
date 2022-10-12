@@ -1,6 +1,6 @@
 // eslint-disable-next-line unicorn/prefer-module
 module.exports = {
-  extends: ['./index.js', 'standard-jsx', 'standard-react'],
+  extends: ['./index.js', 'standard-jsx', '@mirismaili/standard-react'],
   env: {
     browser: true
   },

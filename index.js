@@ -24,6 +24,7 @@ module.exports = {
     'unicorn/no-unused-properties': 2,
     'unicorn/prefer-at': 2,
     'unicorn/prefer-string-replace-all': 2,
+    'unicorn/switch-case-braces': ['error', 'avoid'],
     // Disable unwanted plugin:unicorn/recommended rules
     'unicorn/import-style': 0,
     'unicorn/no-array-reduce': 0,
