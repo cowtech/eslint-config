@@ -1,3 +1,7 @@
+### 2022-11-23 / 8.8.0
+
+- feat: Use common array syntax.
+
 ### 2022-10-12 / 8.7.5
 
 - fix: Fixed React including.
