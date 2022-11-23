@@ -3,7 +3,7 @@ module.exports = {
   extends: ['./index.js', 'plugin:import/typescript', 'standard-with-typescript'],
   rules: {
     curly: [2, 'all'],
-    '@typescript-eslint/array-type': [2, { default: 'generic', readonly: 'generic' }],
+    '@typescript-eslint/array-type': [2, { default: 'array', readonly: 'array' }],
     '@typescript-eslint/no-non-null-assertion': 0,
     '@typescript-eslint/promise-function-async': 0,
     '@typescript-eslint/require-await': 2,

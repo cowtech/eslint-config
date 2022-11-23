@@ -29,9 +29,11 @@ module.exports = {
     'unicorn/import-style': 0,
     'unicorn/no-array-reduce': 0,
     'unicorn/no-for-loop': 0,
+    'unicorn/no-negated-condition': 0,
     'unicorn/no-null': 0,
     'unicorn/no-process-exit': 0,
     'unicorn/no-useless-undefined': 0,
+    'unicorn/no-typeof-undefined': 0,
     'unicorn/prevent-abbreviations': 0
   },
   plugins: ['unicorn', 'import'],
