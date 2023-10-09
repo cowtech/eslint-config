@@ -1,3 +1,7 @@
+### 2023-10-09 / 8.9.1
+
+- fix: Minor rules adjustements.
+
 ### 2023-10-09 / 8.9.0
 
 - chore: Updated dependencies.
