@@ -7,7 +7,7 @@ module.exports = {
     'import/order': [
       2,
       {
-        groups: [['builtin', 'external'], 'internal', 'parent', 'sibling', 'index', 'object', 'type'],
+        groups: [['builtin', 'external', 'type'], 'internal', 'parent', 'sibling', 'index', 'object'],
         'newlines-between': 'never',
         alphabetize: { order: 'asc', caseInsensitive: true }
       }
@@ -34,7 +34,8 @@ module.exports = {
     'unicorn/no-process-exit': 0,
     'unicorn/no-useless-undefined': 0,
     'unicorn/no-typeof-undefined': 0,
-    'unicorn/prevent-abbreviations': 0
+    'unicorn/prevent-abbreviations': 0,
+    'unicorn/prefer-event-target': 0
   },
   plugins: ['unicorn', 'import'],
   reportUnusedDisableDirectives: true
