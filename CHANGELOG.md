@@ -1,3 +1,7 @@
+### 2023-10-09 / 8.9.0
+
+- chore: Updated dependencies.
+
 ### 2022-11-23 / 8.8.0
 
 - feat: Use common array syntax.
