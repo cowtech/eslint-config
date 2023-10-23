@@ -1,4 +1,3 @@
-// eslint-disable-next-line unicorn/prefer-module
 module.exports = {
   extends: ['./typescript.js', 'standard-jsx', '@mirismaili/standard-react'],
   env: {
