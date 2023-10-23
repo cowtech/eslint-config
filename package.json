@@ -31,7 +31,7 @@
     "lint": "eslint --cache --ext .js,.jsx,.ts,.tsx -c index.js .",
     "ci": "npm run lint",
     "prepublishOnly": "npm run ci",
-    "postpublish": "git push origin && git push origin  --tags"
+    "postpublish": "git push origin && git push origin -f --tags"
   },
   "dependencies": {
     "@mirismaili/eslint-config-standard-react": "^12.0.0",
