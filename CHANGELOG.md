@@ -1,3 +1,9 @@
+### 2023-10-23 / 8.10.0
+
+- fix: Fixed build, again.
+- fix: Fixed build.
+- feat: Removed eslint-plugin-unicorn.
+
 ### 2023-10-09 / 8.9.1
 
 - fix: Minor rules adjustements.
