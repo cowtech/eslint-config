@@ -1,3 +1,9 @@
+### 2023-12-20 / 9.0.0
+
+- chore: Updated dependencies.
+- fix: Fixing build.
+- chore: Updating toolchain.
+
 ### 2023-10-23 / 8.10.0
 
 - fix: Fixed build, again.
