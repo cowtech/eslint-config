@@ -29,6 +29,7 @@
   "scripts": {
     "format": "prettier -w *.js",
     "lint": "eslint --cache --ext .js,.jsx,.ts,.tsx -c index.js .",
+    "typecheck": "exit 0", 
     "test": "exit 0",
     "ci": "npm run lint",
     "prepublishOnly": "npm run ci",
