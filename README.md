@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/npm/v/@cowtech/eslint-config.svg)](https://npm.im/@cowtech/eslint-config)
 [![Dependencies](https://img.shields.io/librariesio/release/npm/@cowtech/eslint-config)](https://libraries.io/npm/@cowtech%2Feslint-config)
 
-CowTech style ESLint config
+CowTech ESLint configuration
 
 https://sw.cowtech.it/eslint-config
 
