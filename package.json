@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/eslint-config",
-  "version": "9.0.0",
+  "version": "9.0.1",
   "description": "CowTech ESLint configuration",
   "homepage": "https://github.com/cowtech/eslint-config/issues",
   "repository": "github:cowtech/eslint-config",
@@ -29,7 +29,7 @@
   "scripts": {
     "format": "prettier -w *.js",
     "lint": "eslint --cache --ext .js,.jsx,.ts,.tsx -c index.js .",
-    "typecheck": "exit 0", 
+    "typecheck": "exit 0",
     "test": "exit 0",
     "ci": "npm run lint",
     "prepublishOnly": "npm run ci",
