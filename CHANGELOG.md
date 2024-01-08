@@ -1,3 +1,9 @@
+### 2024-01-08 / 9.0.1
+
+- chore: Updated description.
+- chore: Added blueprint script.
+- chore: Added mockup test script.
+
 ### 2023-12-20 / 9.0.0
 
 - chore: Updated dependencies.
