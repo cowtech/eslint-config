@@ -1,3 +1,7 @@
+### 2024-10-20 / 10.0.0
+
+- feat: Rewritten using ESLint flat configs and neostandard.
+
 ### 2024-01-24 / 9.0.3
 
 - fix: Fixed package.json
