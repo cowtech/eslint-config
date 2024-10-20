@@ -7,34 +7,22 @@ CowTech ESLint configuration
 
 https://sw.cowtech.it/eslint-config
 
-Starting from version **4.19.0**, it is now based on [standard](https://standardjs.com/) which will differ on only few specific cases.
+Starting from version **10.0.0**, it is now based on [neostandard](https://github.com/neostandard/neostandard) with few modifications.
+
+Between version **4.19.0** and **9.x**, it was based on [standard](https://standardjs.com/) with few modifications.
 
 ## Usage
 
-In your ESLint configuration file, insert one the following statement, depending on your use case:
+In your ESLint configuration file, insert the following code:
 
 ```javascript
-// ...
-"extends": "@cowtech/eslint-config"
-// ...
-```
+import { cowtech } from '@cowtech/eslint-config'
 
-```javascript
-// ...
-"extends": "@cowtech/eslint-config/typescript"
-// ...
-```
-
-```javascript
-// ...
-"extends": "@cowtech/eslint-config/react"
-// ...
-```
-
-```javascript
-// ...
-"extends": "@cowtech/eslint-config/react-with-typescript"
-// ...
+export default [
+  // ...
+  ...cowtech
+  // ...
+]
 ```
 
 ## Contributing to @cowtech/eslint-config
