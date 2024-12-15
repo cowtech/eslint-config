@@ -7,9 +7,9 @@ CowTech ESLint configuration
 
 https://sw.cowtech.it/eslint-config
 
-Starting from version **10.0.0**, it is now based on [neostandard](https://github.com/neostandard/neostandard) with few modifications.
+Starting from version \*_10.0.0_, it is now based on [neostandard](https://github.com/neostandard/neostandard) with few modifications.
 
-Between version **4.19.0** and **9.x**, it was based on [standard](https://standardjs.com/) with few modifications.
+Between version **4.19.0\* and **9.x\*\*, it was based on [standard](https://standardjs.com/) with few modifications.
 
 ## Usage
 
