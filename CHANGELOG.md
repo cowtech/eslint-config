@@ -1,3 +1,8 @@
+### 2024-12-15 / 10.0.1
+
+- fix: Allow Typescript extensions.
+- chore: Choose a valid Node.js version.
+
 ### 2024-10-20 / 10.0.0
 
 - feat: Rewritten using ESLint flat configs and neostandard.
