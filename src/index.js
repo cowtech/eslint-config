@@ -38,7 +38,11 @@ export const cowtech = [
     files: ['**/*.{js,jsx,mjs}', '**/*.{ts,tsx,mts}'],
     rules: {
       // This is required for proper ESM use
-      'import/extensions': [2, 'ignorePackages', { jsx: 'never', tsx: 'never' }],
+      'import/extensions': [
+        2,
+        'ignorePackages',
+        { jsx: 'never', ts: 'never', tsx: 'never', mts: 'never', cts: 'never' }
+      ],
       'import/order': [
         2,
         {
@@ -119,6 +123,15 @@ export const cowtech = [
       'react/no-unused-prop-types': 'error',
       'react/prop-types': 0,
       'react/react-in-jsx-scope': 0
+    }
+  }
+]
+
+export const allowTypeScriptImport = [
+  {
+    files: ['**/*.{js,jsx,mjs}', '**/*.{ts,tsx,mts}'],
+    rules: {
+      'import/extensions': [2, 'ignorePackages', { jsx: 'never', tsx: 'never' }]
     }
   }
 ]
