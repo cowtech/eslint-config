@@ -1,3 +1,7 @@
+### 2024-12-16 / 10.1.0
+
+- feat: Split Typescript imports.
+
 ### 2024-12-15 / 10.0.1
 
 - fix: Allow Typescript extensions.
