@@ -1,3 +1,7 @@
+### 2024-12-28 / 10.2.0
+
+- chore: Updated dependencies.
+
 ### 2024-12-16 / 10.1.0
 
 - feat: Split Typescript imports.
