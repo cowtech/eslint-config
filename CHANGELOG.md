@@ -1,3 +1,7 @@
+### 2025-04-15 / 10.4.0
+
+- feat: Require consistent Typescript imports.
+
 ### 2025-04-15 / 10.3.0
 
 - feat: Allow Typescript in imports.
