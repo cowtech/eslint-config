@@ -41,7 +41,7 @@ export const cowtech = [
       'import/extensions': [
         2,
         'ignorePackages',
-        { jsx: 'never', ts: 'never', tsx: 'never', mts: 'never', cts: 'never' }
+        { jsx: 'never', tsx: 'never' }
       ],
       'import/order': [
         2,
