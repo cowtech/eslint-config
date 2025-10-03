@@ -1,3 +1,7 @@
+### 2025-10-03 / 10.4.1
+
+- fix: Minor JSX fix.
+
 ### 2025-04-15 / 10.4.0
 
 - feat: Require consistent Typescript imports.
