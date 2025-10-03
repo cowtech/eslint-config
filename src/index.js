@@ -38,11 +38,7 @@ export const cowtech = [
     files: ['**/*.{js,jsx,mjs}', '**/*.{ts,tsx,mts}'],
     rules: {
       // This is required for proper ESM use
-      'import/extensions': [
-        2,
-        'ignorePackages',
-        { jsx: 'never', tsx: 'never' }
-      ],
+      'import/extensions': [2, 'ignorePackages', { jsx: 'always', tsx: 'always' }],
       'import/order': [
         2,
         {
@@ -132,7 +128,7 @@ export const allowTypeScriptImport = [
   {
     files: ['**/*.{js,jsx,mjs}', '**/*.{ts,tsx,mts}'],
     rules: {
-      'import/extensions': [2, 'ignorePackages', { jsx: 'never', tsx: 'never' }]
+      'import/extensions': [2, 'ignorePackages', { jsx: 'always', tsx: 'always' }]
     }
   }
 ]
