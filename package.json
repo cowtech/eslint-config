@@ -39,16 +39,16 @@
     "postpublish": "git push origin && git push origin -f --tags"
   },
   "dependencies": {
-    "eslint-config-love": "^113.0.0",
-    "eslint-import-resolver-typescript": "^3.7.0",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-react-hooks": "^5.1.0",
-    "neostandard": "^0.12.0",
-    "typescript-eslint": "^8.18.2"
+    "eslint-config-love": "^134.0.0",
+    "eslint-import-resolver-typescript": "^4.4.4",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "neostandard": "^0.12.2",
+    "typescript-eslint": "^8.47.0"
   },
   "devDependencies": {
-    "eslint": "^9.17.0",
-    "prettier": "^3.4.2"
+    "eslint": "^9.39.1",
+    "prettier": "^3.6.2"
   },
   "engines": {
     "node": ">= 20.18.0"
