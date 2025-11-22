@@ -1,3 +1,7 @@
+### 2025-11-22 / 10.5.0
+
+- chore: Updated dependencies.
+
 ### 2025-10-03 / 10.4.1
 
 - fix: Minor JSX fix.
