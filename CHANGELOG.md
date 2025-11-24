@@ -1,3 +1,8 @@
+### 2025-11-24 / 11.0.0
+
+- feat!: Dropped support for Node 20.
+- chore: Removed leftover script.
+
 ### 2025-11-22 / 10.5.0
 
 - chore: Updated dependencies.
