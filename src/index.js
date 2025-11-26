@@ -76,7 +76,7 @@ export const cowtech = [
         This is needed again as it is enabled from eslint-plugin-love.
       */
       '@stylistic/space-before-function-paren': 0,
-      '@typescript-eslint/consistent-type-imports': ['error', { fixStyle: 'inline-type-imports' }],
+      '@typescript-eslint/consistent-type-imports': ['error', { fixStyle: 'separate-type-imports' }],
       '@typescript-eslint/array-type': [2, { default: 'array', readonly: 'array' }],
       '@typescript-eslint/no-non-null-assertion': 0,
       '@typescript-eslint/no-misused-promises': 0,
