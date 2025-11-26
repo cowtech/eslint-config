@@ -1,3 +1,7 @@
+### 2025-11-26 / 11.1.0
+
+- feat: Use separate type imports.
+
 ### 2025-11-24 / 11.0.0
 
 - feat!: Dropped support for Node 20.
