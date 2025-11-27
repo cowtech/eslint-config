@@ -42,7 +42,7 @@ export const cowtech = [
       'import/order': [
         2,
         {
-          groups: [['builtin', 'external', 'type'], 'internal', 'parent', 'sibling', 'index', 'object'],
+          groups: [['type', 'builtin', 'external'], 'internal', 'parent', 'sibling', 'index', 'object'],
           'newlines-between': 'never',
           alphabetize: { order: 'asc', caseInsensitive: true }
         }
