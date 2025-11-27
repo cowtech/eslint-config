@@ -1,3 +1,7 @@
+### 2025-11-27 / 11.1.1
+
+- chore: Sanitized type only imports.
+
 ### 2025-11-26 / 11.1.0
 
 - feat: Use separate type imports.
