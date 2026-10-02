@@ -1,3 +1,7 @@
+### 2026-10-02 / 12.0.0
+
+- feat: Updated to ESLint 10.
+
 ### 2025-11-27 / 11.1.3
 
 - fix: Correctly sort type only imports.
