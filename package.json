@@ -38,16 +38,22 @@
     "postpublish": "git push origin && git push origin -f --tags"
   },
   "dependencies": {
-    "eslint-config-love": "^134.0.0",
-    "eslint-import-resolver-typescript": "^4.4.4",
+    "@eslint/compat": "^2.1.1",
+    "eslint-config-love": "^157.0.0",
+    "eslint-import-resolver-typescript": "^4.4.5",
     "eslint-plugin-import": "^2.32.0",
-    "eslint-plugin-react-hooks": "^7.0.1",
-    "neostandard": "^0.12.2",
-    "typescript-eslint": "^8.47.0"
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^17.13.0",
+    "neostandard": "^0.13.0",
+    "typescript": "npm:@typescript/typescript6@^6.0.2",
+    "typescript-eslint": "^8.71.0"
+  },
+  "peerDependencies": {
+    "eslint": "^10.11.0"
   },
   "devDependencies": {
-    "eslint": "^9.39.1",
-    "prettier": "^3.6.2"
+    "eslint": "^10.11.0",
+    "prettier": "^3.9.9"
   },
   "engines": {
     "node": ">= 22.21.0"

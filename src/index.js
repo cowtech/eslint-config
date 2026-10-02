@@ -1,10 +1,12 @@
+import { fixupConfigRules } from '@eslint/compat'
 import love from 'eslint-config-love'
 import { flatConfigs } from 'eslint-plugin-import'
 import reactHooks from 'eslint-plugin-react-hooks'
 import globals from 'globals'
 import neostandard from 'neostandard'
 
-export const cowtech = [
+// Legacy plugins still use rule APIs removed in ESLint 10.
+export const cowtech = fixupConfigRules([
   // Globals
   {
     ignores: ['coverage/**', 'dist/**', '**/*.d.{ts,mts,cts}', 'tmp/**']
@@ -123,7 +125,7 @@ export const cowtech = [
       'react/react-in-jsx-scope': 0
     }
   }
-]
+])
 
 export const allowTypeScriptImport = [
   {

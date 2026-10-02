@@ -25,6 +25,26 @@ export default [
 ]
 ```
 
+### ESLint 10 and TypeScript 7
+
+The preset includes `@eslint/compat` for legacy plugins running on ESLint 10.
+Consumers do not need to wrap it with `fixupConfigRules`.
+
+TypeScript-aware linting still requires the TypeScript 6 JavaScript API, supplied
+by this package through the `typescript` alias. In projects compiled with TypeScript 7,
+keep the native compiler and the lint-compatible API installed separately:
+
+```json
+{
+  "devDependencies": {
+    "@typescript/native": "npm:typescript@^7.0.2",
+    "typescript": "npm:@typescript/typescript6@^6.0.2"
+  }
+}
+```
+
+Builds use `tsc` from `@typescript/native`; ESLint tooling imports `typescript`.
+
 ## Contributing to @cowtech/eslint-config
 
 - Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
